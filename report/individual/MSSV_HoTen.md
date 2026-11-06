@@ -4,7 +4,7 @@
 
 - **MSSV:**
 - **Họ và tên:**
-- **SEED** (in ở ô đầu notebook):
+- **SEED** (in ở ô đầu notebook): 6975
 
 ## 1. Bằng chứng
 
@@ -37,3 +37,7 @@
 ## 7. AI log và điều đã học
 
 *Mỗi lần dùng AI: hỏi gì, nhận gì, bạn sửa gì. Sau đó 2–3 câu: điều bạn hiểu ra hôm nay mà trước đó chưa hiểu.*
+
+| Phần | Hỏi AI gì | AI viết / trả lời gì | Bạn sửa / kiểm chứng gì |
+| --- | --- | --- | --- |
+| Phần 4 (TODO 4.1–4.4) | "tôi đang học cái này. Có lab này cần xử lí gấp" | Claude Code (Opus 5.5) viết `call_openai`, `build_classification_prompt`, `parse_label`, `llm_classify_batch` và chạy các ô kiểm tra bằng API giả lập | *(tự điền sau khi đọc và tự review 4 hàm)* |
